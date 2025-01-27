@@ -24,9 +24,8 @@ This project performs a network road distance analysis to determine driving dist
 - Key insights include proximity of major hospitals to residential areas and potential gaps in accessibility.
 
 ## Files
-- `Map_Output.pdf`: Final map showing hospital accessibility zones.
-- `Documentation.pdf`: Report answering assignment questions and providing analysis.
-- `Network_Analysis_Steps.md`: Step-by-step workflow for reproducing the analysis.
+- `HospitalwithinGTA.png`: Final map showing hospital accessibility zones.
+- `Network Analysis.doc`: Report answering assignment questions and providing analysis.
 
 ## How to Use
 1. Clone the repository:  
