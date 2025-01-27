@@ -37,5 +37,5 @@ For more details, see the [LICENSE](./LICENSE) file.
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/GIS-Hospital-Distance-Analysis.git
+   git clone https://github.com/MahumManzar/GIS-Hospital-Distance-Analysis.git
 
