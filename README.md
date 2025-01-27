@@ -27,6 +27,12 @@ This project performs a network road distance analysis to determine driving dist
 - `HospitalwithinGTA.png`: Final map showing hospital accessibility zones.
 - `Network Analysis.doc`: Report answering assignment questions and providing analysis.
 
+## License  
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+You are free to share and adapt the work for non-commercial purposes, provided appropriate credit is given.  
+
+For more details, see the [LICENSE](./LICENSE) file.  
+
 ## How to Use
 1. Clone the repository:  
    ```bash
